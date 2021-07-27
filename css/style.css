@@ -27,3 +27,8 @@
 .my-container{
     margin: 50px 10px;
 }
+
+.test{
+    list-style:lower-alpha;
+    font-size: 14px;
+}
