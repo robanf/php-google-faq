@@ -18,3 +18,12 @@
     color: gray;
     font-weight:500;
 }
+
+.my-nav li{
+    display: inline-block;
+    font-weight:500;
+}
+
+.my-container{
+    margin: 50px 10px;
+}
